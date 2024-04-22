@@ -1,0 +1,14 @@
+{
+  "name": "zzgit",
+  "version": "1.0.0",
+  "description": "ZZGIT",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/EAFD7BD815AF1EDEBEA34A73BE7720EE_0"
+  }
+}
